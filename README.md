@@ -27,6 +27,13 @@
 > 小程序体验：微信复制下面链接，打开微信即可唤起
 > `#小程序://青禾的资料/HDbIpwpfukJkSVv`
 
+◆ 见缝插针小游戏｜Unity2D | 核心开发 | 2025.10 - 2025.11
+> 复刻微信小程序见缝插针2D休闲游戏，优化原版交互体验
+- 使用Unity2D+C#开发，编写游戏状态管理、Trigger碰撞检测、ScriptableObject关卡配置；
+- 实现动态UI文本、预制体生成、PlayerPrefs关卡持久化、多场景音频反馈；
+- ✅成果：提供Windows可执行发布包，支持多关卡递进，完整可运行Demo。
+仓库地址：[unity-pin-game](https://github.com/yukia2778/unity-pin-game)
+
 
 #### 🔹 [方寸台球—台球仿真游戏](https://github.com/yukia2778/fangcun-billiards)｜核心开发 | 2026.03 - 2026.05
 > 基于Unity引擎的3D写实台球仿真游戏，依托URP管线渲染，结合PhysX物理引擎还原台球碰撞、滚动物理效果
