@@ -49,3 +49,15 @@
 - 数据库：MySQL、MongoDB；熟悉数据表设计、复杂SQL编写、索引优化；微信云开发
 - 计算机设计&多媒体：WPS，PS；Premiere完成录屏、片段剪辑、片头片尾、字幕、人像抠像等视频剪辑
 
+
+## 🎨 板绘 & 字体设计作品
+<div align="center">
+<img width="420" src="https://github.com/user-attachments/assets/467050cb-533d-4928-96ea-08f2e1e4978d" />
+<img width="420" src="https://github.com/user-attachments/assets/dadac637-b32a-4f9e-a29c-1725f23432b3" />
+<br>
+<img width="420" src="https://github.com/user-attachments/assets/15896764-60e2-4880-992c-17f43ede5f04" />
+<img width="420" src="https://github.com/user-attachments/assets/0115c6f5-047e-408c-b748-783575150838" />
+</div>
+
+- 板写字体设计：手写氛围感文字视觉设计，文字与画面氛围融合创作
+- 原创板绘：二次元角色创作，同人人物绘制
