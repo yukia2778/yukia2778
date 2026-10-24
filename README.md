@@ -12,6 +12,11 @@
   > 参与辖区宣传视频制作，素材整理、文档校对、展板设计，完成公文收发登记等行政支撑工作。
 
 📂 **Projects 项目作品**
+### 📊 建筑节能监测平台前端
+**青岛艾德森物联｜Vue3 + Vite + ECharts**
+> 实习前端项目，楼宇能耗可视化大屏开发
+[仓库地址](https://github.com/yukia2778/building-energy-monitor-web) | [在线预览](https://yukia2778.github.io/building-energy-monitor-web/)
+
 #### 🔹 基于RAGFlow的智能文言文顾问｜核心开发 | 2025.09 - 2025.10
 > 实现文言文智能化辅助学习，解决大模型古文问答幻觉、无参考来源问题
 - 负责文言文数据集整理、原始文档处理，在RAGFlow完成文档解析、知识库创建；
